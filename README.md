@@ -1,9 +1,7 @@
 # Terceiro Trimestre
 
-##Identidade
-
+## Identificação
 Joana Izabel dos santos 36
 
-##Conteúdo
-
+## Conteúdo
 HTML, css, javascript
